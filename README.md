@@ -1,2 +1,2 @@
 # Repo AngularJS
-My first git repository
+My angular repository
