@@ -1,2 +1,2 @@
-# first-repo
+# Repo AngularJS
 My first git repository
